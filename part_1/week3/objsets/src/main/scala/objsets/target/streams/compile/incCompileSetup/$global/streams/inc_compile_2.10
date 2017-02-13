@@ -1,0 +1,346 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetData$.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetData.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$$anonfun$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$$anonfun$toTweetSet$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$$anonfun$unparseToData$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweetData$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweets$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$ParseTweets$.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Cons.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Empty.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main$$anonfun$1.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main$.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main$delayedInit$body.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Nil$.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Nil.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/NonEmpty.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Tweet.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetList$class.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetList.class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetSet.class
+binary dependencies:
+5 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> objsets.TweetData
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> objsets.TweetData$
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$toTweetSet$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$unparseToData$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweetData$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweets$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Cons
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Empty
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$$anonfun$1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$delayedInit$body
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Nil
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Nil$
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.NonEmpty
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Tweet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetList
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetList$class
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetSet
+used names:
+171 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> <init>
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> AnyRef
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> CNET
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> TechCrunch
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> TweetData
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> amazondeals
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> engadget
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> gadgetlab
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> gizmodo
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> mashable
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> objsets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> scala
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> +
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> ++
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> ->
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> <init>
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> Any
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> AnyRef
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> CNET
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> Empty
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> JSON
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> List
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> Map
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> Nothing
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> ParseTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> Predef
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> Seq
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> String
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> StringBuffer
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> T
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> TechCrunch
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> Tweet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> TweetData
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> TweetReader
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> TweetSet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> _root_
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> acc
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> allTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> amazondeals
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> amazondealsTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> any2ArrowAssoc
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> append
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> apply
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> asInstanceOf
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> augmentString
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> buf
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> canBuildFrom
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> cnetTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> collection
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> curSets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> engadget
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> engadgetTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> foldLeft
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> foreach
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> gadgetlab
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> gadgetlabTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> get
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> getList
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> getTweetData
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> gizmodo
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> gizmodoTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> head
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> immutable
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> incl
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> isEmpty
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> java
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> json
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> l
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> lang
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> map
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> mashable
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> mashableTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> objsets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> package
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> parseFull
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> parsing
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> replaceAll
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> retweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> s
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> scala
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> siteTweetSetMap
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> sites
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> sources
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> tail
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> techCrunchTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> text
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> toDouble
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> toInt
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> toString
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> toTweetSet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> tw
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> tweetMap
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> tweetSets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> tweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> tws
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> union
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> unionOfAllTweetSets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> user
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> util
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> zip
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> &&
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> +
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> <
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> <init>
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> >=
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> AnyRef
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> App
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Boolean
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Cons
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Empty
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Function1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> GoogleVsApple
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Int
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> List
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Main
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Nil
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> NoSuchElementException
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> NonEmpty
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Predef
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> String
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Tweet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> TweetList
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> TweetReader
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> TweetSet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> Unit
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> _root_
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> acc
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> allTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> apple
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> appleTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> apply
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> augmentString
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> compareRetweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> contains
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> descendingByRetweet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> elem
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> exists
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> f
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> filter
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> filterAcc
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> foreach
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> google
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> googleTweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> head
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> immutable
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> incl
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> isEmpty
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> java
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> left
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> mostRetweeted
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> objsets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> p
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> println
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> remove
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> retweets
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> right
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> s
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> scala
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> tail
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> text
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> that
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> trending
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> tw
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> tweet
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> tweet1
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> tweet2
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> unary_!
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> union
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> user
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> util
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> x
+product stamps:
+29 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Cons.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Empty.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple$.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/GoogleVsApple.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main$$anonfun$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main$.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main$delayedInit$body.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Main.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Nil$.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Nil.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/NonEmpty.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/Tweet.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetData$.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetData.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetList$class.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetList.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$$anonfun$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$$anonfun$toTweetSet$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$$anonfun$unparseToData$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweetData$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweets$1.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader$ParseTweets$.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetReader.class -> lastModified(1486280992000)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/target/scala-2.10/classes/objsets/TweetSet.class -> lastModified(1486280992000)
+source stamps:
+3 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> hash(777a27a2b5ac36c3e19a8721c5c885e397664dff)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> hash(9bf9247ca2ed3966a673cef172ec6c484aa0660b)
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> hash(8f0fbbf312d2ad52a4063c1e3c0862a4c4647a3c)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459498886000)
+/Users/wendydherin/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/wendydherin/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.App
+internal apis:
+3 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCQ43SxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFfWSdB0AAZub3RpZnlzcQB+AAxDiLdYdAALYW1hem9uZGVhbHNzcQB+AAzB9PrkdAAEQ05FVHNxAH4ADLiSGK90AAdnaXptb2Rvc3EAfgAMzn6MUnQABHdhaXRzcQB+AAzseQ0+dAANJGFzSW5zdGFuY2VPZnNxAH4ADCy4dJx0AAhtYXNoYWJsZXNxAH4ADMOOFm10AAlnYWRnZXRsYWJzcQB+AAylZ+ZKdAAGZXF1YWxzc3EAfgAMqzntPHQADGFzSW5zdGFuY2VPZnNxAH4ADNqr67R0AAxzeW5jaHJvbml6ZWRzcQB+AAykTZNkdAAIZW5nYWRnZXRzcQB+AAwSgHJ+dAAJVHdlZXREYXRhc3EAfgAMkoKre3QADSRpc0luc3RhbmNlT2ZzcQB+AAxcoKwSdAAJbm90aWZ5QWxsc3EAfgAMMH7aiHQADGlzSW5zdGFuY2VPZnNxAH4ADK5qFJt0AAI9PXNxAH4ADObl6Vp0AAVjbG9uZXNxAH4ADBhTlBB0AAh0b1N0cmluZ3NxAH4ADPQfNjF0AAIhPXNxAH4ADH+KJ2B0AAhnZXRDbGFzc3NxAH4ADJ0Sd7l0AAJuZXNxAH4ADBeOk5l0AApUZWNoQ3J1bmNoc3EAfgAMruG0jXQAAmVxc3EAfgAMKpb2rnQAAiMjc3EAfgAMNYI0onQACGZpbmFsaXplc3EAfgAMfKC1I3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEW9ianNldHMuVHdlZXREYXRhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AanNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAADQW55c3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnQABXNjYWxhcQB+AIl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdvYmpzZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaDUAcmHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AIEvVXNlcnMvd2VuZHlkaGVyaW4vUHJvamVjdHMvY291cnNlcmFfZnBfc2NhbGFfY2VydGlmaWNhdGlvbi9wYXJ0XzEvd2VlazMvb2Jqc2V0cy9zcmMvbWFpbi9zY2FsYS9vYmpzZXRzL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR3eieitaw2w+GahyHFyIXjl2ZN/w==
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDwObQbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLAN1Q10AAZub3RpZnlzcQB+AAzjNNa8dAAEd2FpdHNxAH4ADKyYhfF0AAtUd2VldFJlYWRlcnNxAH4ADEVODmp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEXkM1HQAC1BhcnNlVHdlZXRzc3EAfgAMSmWTZXQABmVxdWFsc3NxAH4ADI1a9jx0AAxhc0luc3RhbmNlT2ZzcQB+AAxCVeNEdAAMc3luY2hyb25pemVkc3EAfgAMRofg9HQACWdldFR3ZWV0c3NxAH4ADAEDczF0AAh0d2VldE1hcHNxAH4ADHn4vjp0AA0kaXNJbnN0YW5jZU9mc3EAfgAMinPYVnQABmdldE1hcHNxAH4ADJiuBkp0AAlub3RpZnlBbGxzcQB+AAzMVtTidAAMaXNJbnN0YW5jZU9mc3EAfgAMoMTwynQACWFsbFR3ZWV0c3NxAH4ADEHhfgZ0AAxnZXRUd2VldERhdGFzcQB+AAzHSBH4dAAKdG9Ud2VldFNldHNxAH4ADMK5+3p0AAI9PXNxAH4ADIwYmQ50AAVjbG9uZXNxAH4ADA7pqw50AAdnZXRMaXN0c3EAfgAM2BsljHQACHRvU3RyaW5nc3EAfgAMZyfEiHQAAiE9c3EAfgAMvG+Ug3QACGdldENsYXNzc3EAfgAMd0W+JHQABXNpdGVzc3EAfgAM53xgTnQADXVucGFyc2VUb0RhdGFzcQB+AAw53aS2dAACbmVzcQB+AAy2HZ16dAAJdHdlZXRTZXRzc3EAfgAMx43nuXQAAmVxc3EAfgAM6Z7953QAAiMjc3EAfgAMMPxcDHQACGZpbmFsaXplc3EAfgAMjTtKz3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE29ianNldHMuVHdlZXRSZWFkZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgByc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVxAH4AUAAAAABzcQB+AG11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AItzcQB+AH50AANBbnlzcQB+AIJzcQB+AIV1cQB+AIgAAAACc3EAfgCKdAAFc2NhbGFxAH4AkXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB29ianNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVoNQByYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAgS9Vc2Vycy93ZW5keWRoZXJpbi9Qcm9qZWN0cy9jb3Vyc2VyYV9mcF9zY2FsYV9jZXJ0aWZpY2F0aW9uL3BhcnRfMS93ZWVrMy9vYmpzZXRzL3NyYy9tYWluL3NjYWxhL29ianNldHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJv5JHyi7TlmpnPO8XLsbEhKoGYL
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBVnOm0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLx/qil0AAZub3RpZnlzcQB+AAzA6BoYdAATZGVzY2VuZGluZ0J5UmV0d2VldHNxAH4ADNu4Pu10AA1Hb29nbGVWc0FwcGxlc3EAfgAMj3ASVXQAA05pbHNxAH4ADP7foLx0AAR3YWl0c3EAfgAM3TYaR3QADSRhc0luc3RhbmNlT2ZzcQB+AAy3q8Z1dAAFdW5pb25zcQB+AAxwO/eIdAAGZXF1YWxzc3EAfgAMSDEsOHQACWZpbHRlckFjY3NxAH4ADP+1vuV0AARoZWFkc3EAfgAMUmbxFnQADGFzSW5zdGFuY2VPZnNxAH4ADE07EaV0AA5leGVjdXRpb25TdGFydHNxAH4ADJRhj0l0AARpbmNsc3EAfgAM95JIe3QADHN5bmNocm9uaXplZHNxAH4ADE9BTRh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJj2bk3QACVR3ZWV0TGlzdHNxAH4ADKE9Xfp0AAZnb29nbGVzcQB+AAxY5fPqdAAEdGV4dHNxAH4ADFjwwet0AA1tb3N0UmV0d2VldGVkc3EAfgAMCSiCQnQABHRhaWxzcQB+AAwo2fpddAAEbWFpbnNxAH4ADN/sMbl0AAhyZXR3ZWV0c3NxAH4ADEp5Se10AARDb25zc3EAfgAM6EI1+3QACW5vdGlmeUFsbHNxAH4ADDLkeXN0AAxpc0luc3RhbmNlT2ZzcQB+AAwKPLdCdAAGZmlsdGVyc3EAfgAMKxnIn3QABjxpbml0PnNxAH4ADG367Sl0AAZyZW1vdmVzcQB+AAy87/INdAAFRW1wdHlzcQB+AAxRK1DfdAACPT1zcQB+AAwIbdK/dAAFY2xvbmVzcQB+AAxN+AzsdAAHZm9yZWFjaHNxAH4ADLHJGlR0AAVUd2VldHNxAH4ADB1vSHV0AAYkaW5pdCRzcQB+AAypTUlEdAAIVHdlZXRTZXRzcQB+AAx5JFIsdAAETWFpbnNxAH4ADGndcut0AAh0b1N0cmluZ3NxAH4ADBx6vvF0AARhcmdzc3EAfgAM4MPnPXQABWFwcGxlc3EAfgAMuXfVFXQAAiE9c3EAfgAMjBdzvnQACGdldENsYXNzc3EAfgAMCUBo33QADGdvb2dsZVR3ZWV0c3NxAH4ADLWi3bJ0AAhjb250YWluc3NxAH4ADFbvpFV0AAdpc0VtcHR5c3EAfgAMl93tN3QAAm5lc3EAfgAM+/I58XQACHRyZW5kaW5nc3EAfgAMXbIgRnQABHVzZXJzcQB+AAwVG/yqdAACZXFzcQB+AAwYLJl7dAAITm9uRW1wdHlzcQB+AAzHaa1IdAALZGVsYXllZEluaXRzcQB+AAyX9O/DdAACIyNzcQB+AAwFi2BXdAALYXBwbGVUd2VldHNzcQB+AAxyshlPdAAIZmluYWxpemVzcQB+AAzvhi5jdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAJc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANb2Jqc2V0cy5Ud2VldHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAI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bTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB29ianNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVoNQByYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAgS9Vc2Vycy93ZW5keWRoZXJpbi9Qcm9qZWN0cy9jb3Vyc2VyYV9mcF9zY2FsYV9jZXJ0aWZpY2F0aW9uL3BhcnRfMS93ZWVrMy9vYmpzZXRzL3NyYy9tYWluL3NjYWxhL29ianNldHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI8Pu/MS0q1SpAY8HjwIYqTEZHo8
+external apis:
+0 items
+source infos:
+3 items
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetData.scala -> 
+AAAAAAAAAAA=
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetReader.scala -> 
+AAAAAAAAAAA=
+/Users/wendydherin/Projects/coursera_fp_scala_certification/part_1/week3/objsets/src/main/scala/objsets/TweetSet.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWg1AHJh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAgS9Vc2Vycy93ZW5keWRoZXJpbi9Qcm9qZWN0cy9jb3Vyc2VyYV9mcF9zY2FsYV9jZXJ0aWZpY2F0aW9uL3BhcnRfMS93ZWVrMy9vYmpzZXRzL3NyYy9tYWluL3NjYWxhL29ianNldHMvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=

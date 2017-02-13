@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains only the elements that are in both sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff contains only the elements in the first set that are not in the second set[0m[0m
+[0m[[0minfo[0m] [0m[32m- isEven returns true when the argument is even; false when it's not[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter applies the isEven filter correctly[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall works as expected[0m[0m
+[0m[[0minfo[0m] [0m[31m- exists works as expected *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  FunSets.exists($anon.this.s13, {[0m[0m
+[0m[[0minfo[0m] [0m[31m    ((x: Int) => FunSets.isEven(x))[0m[0m
+[0m[[0minfo[0m] [0m[31m  }) was true exists returns 'false'when 'isEven' is applied to the set of 1, 3 (FunSetSuite.scala:180)[0m[0m
+[0m[[0minfo[0m] [0m[32m- map works as expected[0m[0m

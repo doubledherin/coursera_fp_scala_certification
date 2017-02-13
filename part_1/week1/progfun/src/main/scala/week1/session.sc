@@ -1,6 +1,5 @@
 object session {
 
-
   def sqrt(x: Double): Double = {
 
     def sqrtIter(guess: Double): Double =
@@ -27,5 +26,7 @@ object session {
     loop(1, n)
 
   }
+  sqrt(540)
   factorial(4)
 }
+

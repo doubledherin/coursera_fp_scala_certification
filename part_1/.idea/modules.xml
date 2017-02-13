@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week2/funsets/src/main/main.iml" filepath="$PROJECT_DIR$/week2/funsets/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/recfun/src/main/main1.iml" filepath="$PROJECT_DIR$/week1/recfun/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/example/src/main/main2.iml" filepath="$PROJECT_DIR$/week1/example/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/example/src/test/test.iml" filepath="$PROJECT_DIR$/week1/example/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/recfun/src/test/test1.iml" filepath="$PROJECT_DIR$/week1/recfun/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/funsets/src/test/test2.iml" filepath="$PROJECT_DIR$/week2/funsets/src/test/test2.iml" />
+    </modules>
+  </component>
+</project>
